@@ -9,3 +9,4 @@ Python for Test Automation using Selenium - Harry, Al Sweigart, et all
 Python for Data Analysis - Udemy courses
 Python Machine Learning - future
 Python / Django for web applications - future
+Modern Python Bootcamp - Colt Steele
